@@ -1,0 +1,16 @@
+.card {
+  background-color: #f4f4f4;
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.workout-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card h3 {
+  margin-top: 0;
+}
